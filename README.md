@@ -21,6 +21,7 @@ npm run dev
 4-Abra o arquivo client/index.html com a extensão Live Server do VsCode
 
 ![foto](./f1.png)
+
 ![foto](./f2.png)
 ![foto](./f3.png)
 ![foto](./f4.png)
