@@ -23,15 +23,27 @@ npm run dev
 ![foto](./f1.png)
 
 ![foto](./f2.png)
+
 ![foto](./f3.png)
+
 ![foto](./f4.png)
+
 ![foto](./f5.png)
+
 ![foto](./f6.png)
+
 ![foto](./f7.png)
+
 ![foto](./f8.png)
+
 ![foto](./f9.png)
+
 ![foto](./f10.png)
+
 ![foto](./f11.png)
+
 ![foto](./f12.png)
+
 ![foto](./f13.png)
+
 ![foto](./f14.png)
