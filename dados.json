@@ -1,0 +1,47 @@
+[
+    {   "id": 1,
+        "sistema": "Monitoramento de desempenho escolar",
+        "tipo": "escola",
+        "finalidade": "Analisar notas e frequência para identificar alunos que podem precisar de apoio",
+        "tecnologia": "Análise preditiva e aprendizado de máquina",
+        "nivel_risco": "Alto",
+        "possui_revisao_humana": true
+    },
+    {
+        "id": 2,
+        "sistema": "Correção automática de redações",
+        "tipo": "escola",
+        "finalidade": "Auxiliar professores na correção e análise de textos",
+        "tecnologia": "Processamento de linguagem natural",
+        "nivel_risco": "Médio",
+        "possui_revisao_humana": true
+    },
+    {
+        "id": 3,
+        "sistema": "Organizador pessoal de tarefas",
+        "tipo": "pessoa",
+        "finalidade": "Planejar atividades, criar listas de tarefas e sugerir prioridades",
+        "tecnologia": "IA generativa",
+        "nivel_risco": "Baixo",
+        "possui_revisao_humana": false
+    },
+    {
+        "id": 4,
+        "sistema": "Gerador de resumos de estudos",
+        "tipo": "pessoa",
+        "finalidade": "Resumir textos e materiais para auxiliar nos estudos",
+        "tecnologia": "IA generativa",
+        "nivel_risco": "Baixo",
+        "possui_revisao_humana": true
+    },
+    {
+        "id": 5,
+        "sistema": "Análise de currículos",
+        "tipo": "empresa",
+        "finalidade": "Identificar candidatos que atendem aos requisitos de uma vaga",
+        "tecnologia": "Machine Learning",
+        "nivel_risco": "Alto",
+        "possui_revisao_humana": true
+    }
+
+]
