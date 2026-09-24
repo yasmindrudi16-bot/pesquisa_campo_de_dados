@@ -22,7 +22,7 @@ npm run dev
 
 ![foto](./f1.png)
 
-![foto](/f2.png)
+![foto](./f2.png)
 
 ![foto](./f3.png)
 
